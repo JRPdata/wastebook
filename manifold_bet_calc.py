@@ -70,6 +70,7 @@ bet['amount'] = 200
 calculateFixedMktPayout(post_bet_p, bet)
 prob = getCpmmProbability(post_bet_pool, post_bet_p)
 print(f"Original pool: {pool}")
+print(f"Original p: {p}")
 print(f"Post bet pool: {post_bet_pool}")
 print(f"Post bet p: {post_bet_p}")
 print(f"Post bet probability: {prob}")
