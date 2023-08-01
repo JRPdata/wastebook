@@ -1,0 +1,22 @@
+What would the DAU(1d) need to be for tomorrow to resolve YES?
+(2000 * 7) - (2843 + 1247 + 1146 + 1410 + 1786 + 1731) = 3837 DAU(7d)
+
+Projections based on a projection for DAU today using signups:
+
+The first 12 hours of signups today (server time) (from API): 1030
+What about yesterday's signups, morning and night?
+Number of users created between 2023-07-31T00:00:00-08:00 and 2023-07-31T12:00:00-08:00: 464
+Number of users created between 2023-07-31T12:00:00-08:00 and 2023-07-31T23:59:59-08:00: 968
+
+Using yesterday's signup of night/day ratio (968/464), gives a dumb projection of: 1030 * (1 + (968/464)) = 3179
+3179 is signups alone, and does not account for other existing users contributing to the DAU, but the gap is only 3837-3179 = 658.
+This gap is lower than recent DAU(1d)s and likely to be met.
+
+For reference, yesterday's signups was 1432 (compared to a DAU of 2843).
+That gap I'll use as a baseline DAU(1d) for yesterday of 2843-1432 = 1411 (DAUs subracting single day signups).
+Adding that DAU with today's signup projection, gives a DAU(1d) projection for today of 1411+3179 = 4590.
+
+(4590 + 2843 + 1247 + 1146 + 1410 + 1786 + 1731)/7 = 2108 DAU (7d)
+
+The baseline DAU(1d) (without new signups) I estimated can be lower by 4590-3837 = 753.
+This seems too large a gap to meet, since the DAU(1d) before the superconductor was higher than this.
