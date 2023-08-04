@@ -1,0 +1,27 @@
+I try to separate how many people are drawn from the superconductor boom from the base of engaged users,
+and calculate what % of them need to stay engaged (assuming the base engagement over the last 30 days stays the same).
+
+Adding up the user signups during the superconductor boom (10 days, July 25 to August 3rd): 6005
+
+Obtain the base average from the 30 days period prior to July 25 (total 1459), and multiply by the number of days in the boom period (10 days):
+10 * 1459 / 30 ~= 486 total base signups in boom period (estimated base)
+
+Subtracting from the total estimates the people drawn from the superconductor frenzy:
+6005 - 486 = 5519 signups.
+
+The current average number of engaged users in last 30 days is ~744
+
+What % of people from the superconductor boom need to stay engaged for next 3 weeks to meet different engagement goals (n)?
+
+Using the formula 100 * (n - 744) / 5519:
+
+n    | % from boom needed to stay engaged to reach engagement (n)
+-----------------------------------------------------------------
+ 790 |  0.83
+ 900 |  2.83
+1000 |  4.64
+1100 |  6.45
+1200 |  8.26
+1300 | 10.07
+1400 | 11.89
+1500 | 13.70
