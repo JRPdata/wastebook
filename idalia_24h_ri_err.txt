@@ -1,0 +1,66 @@
+This is a speculative analysis based on fig 1c from https://journals.ametsoc.org/view/journals/wefo/35/6/WAF-D-19-0253.1.xml
+and using only single point of data (Assuming the NHC official forecast for Idalia falls into the same distribution of biases)
+For the advisory 24 hours out: https://www.nhc.noaa.gov/text/refresh/MIATCMAT5+shtml/291453.shtml
+It has the current max wind speed at 75 kt. Forecast is for 110 kt, 24 hours later.
+The change in max intensity is 35kt, putting it into the 4th column to the right of the y axis for fig 4c.
+Note the bins appear to be separated by 10kt (0-10kt, 10-20kt, etc) for fig 4c. So, the number of events for each intensity range is roughly:
+
+0 to 10 kt: 3
+-10 to 0 kt: 55
+-20 to -10 kt: 148
+-30 to -20 kt: 89
+-40 to -30 kt: 15
+
+310 events total.
+
+I then interpolate the number of events to fit the hurricane intensity category scale:
+  For instance, for the -10 to 0 kt error range, what is relevant is that 110kt + 2.5 kt is the cutoff for cat 3 or cat 4:
+    So to the number of events for this error range I add (2.5/10)*55 events to the total to keep it still a cat 3, and (7.5/10)*55 to the total number of events for make it a cat 4.
+
+Analysis:
+
+Category 1 (64-82 kt):
+The forecast intensity is 110 kt, which is well above the error ranges that could lower it to Category 1. The probability is 0.
+
+Category 2 (83-95 kt):
+There are also no events that fall into this category based on the given data. The probability is 0.
+
+Category 3 (96-112 kt):
+The forecast intensity is 110 kt, which falls within the error ranges to keep it a category 3.
+The events that fall into the error range of 0 to 10 kt and -10 to 0 kt could potentially keep the intensity within Category 3:
+
+0 to 10 kt: 3 events
+-10 to 0 kt: (2.5/10) * 55 ≈ 13.75 events (interpolating)
+The total number of events in the range that maintains Category 3 is 3 + 13.75 = 16.75.
+The total number of events considered for all error ranges is 55 + 3 + 148 + 89 + 15 = 310.
+Therefore, the probability is 16.75 / 310 ≈ 0.0540.
+
+Category 4 (113-136 kt):
+The forecast intensity is 110 kt, which is below the lower limit of this category.
+
+The events that fall into the error ranges of -20 to -30 kt, -10 to -20 kt, and -10 to 0 kt could potentially bring the intensity within Category 4:
+
+-20 to -30 kt: (6.5/10) * 89 ≈ 57.85 events (interpolating)
+-10 to -20 kt: 148 events (all)
+-10 to 0 kt: (7.5/10) * 55 ≈ 41.25 events (interpolating)
+The total number of events in the range that upgrades to Category 4 is 57.85 + 148 + 41.25 = 247.10.
+The total number of events considered for all error ranges is 310.
+Therefore, the probability is 247.10 / 310 ≈ 0.7968.
+
+Category 5 (137 kt or higher):
+The forecast intensity is 110 kt, which is below the lower limit of this category. The events that fall into the error range of -30 to -20 kt could potentially bring the intensity within Category 5:
+
+-30 to -20 kt: (3.5/10) * 89 ≈ 31.15 events (interpolating)
+The events that fall into the error range of -40 to -30 kt:
+-40 to -30 kt: 15 events (all)
+The total number of events in the range that upgrades to Category 5 is 31.15 + 15 = 46.15.
+The total number of events considered for all error ranges is 310.
+Therefore, the probability is 46.15 / 310 ≈ 0.1489.
+
+In summary, the probabilities for each hurricane category range are as follows:
+
+Category 1: 0 %
+Category 2: 0 %
+Category 3: 5 %
+Category 4: 80 %
+Category 5: 15 %
