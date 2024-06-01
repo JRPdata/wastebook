@@ -27,6 +27,8 @@ Also extreme weather, climate, various environmental hazards, and random notes
 - [Random sites](#random)
 - [Experimental personal projects](#expnotes)
 
+---
+
 <a name="surface"/>
 ## Surface Analysis (Synoptic)
 - see also mesoscale analysis (HRRR) expert in general links
