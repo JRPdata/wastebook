@@ -3,6 +3,31 @@ Also extreme weather, climate, various environmental hazards, and random notes
 
 ---
 
+#### Table of Contents
+[Surface Analysis](#surface)  
+[General Analysis](#generalanl)
+[Satellite Products](#satellite)
+[Realtime/Live Imagery, Analysis](#live)
+[Ocean Temperatures (SST, OHC)](#oceantemp)
+[Decks & Fixes - Automated data (ATCF)](#atcf)
+[Official Sites](#ofcl)
+[Dropsondes (hurricane hunter planes)](#dsonde)
+[Best tracks](#besttracks)
+[Archives and Verification](#archives)
+[Forecast websites for Model products](#models)
+[Public Discussion on social sites](#social)
+[General weather and environmental sites](#general)
+[Data (gribs)](#gribdata)
+[Other hazards](#other)
+[Climate](#climate)
+[High altitude weather & climate](#strato)
+[Other sites with data](#misclinks)
+[Satellite imagery archive](#satarchive)
+[Radar imagery archive](#radararchive)
+[Random sites](#random)
+[Experimental personal projects](#expnotes)
+
+<a name="surface"/>
 ## Surface Analysis (Synoptic)
 - see also mesoscale analysis (HRRR) expert in general links
 
@@ -16,10 +41,12 @@ Also extreme weather, climate, various environmental hazards, and random notes
 - DOCUMENTATION:
     - [https://www.wpc.ncep.noaa.gov/sfc/UASfcManualVersion1.pdf#page3](https://www.wpc.ncep.noaa.gov/sfc/UASfcManualVersion1.pdf#page3)
 
+<a name="generalanl"/>
 ## General Analysis
 - [https://mag.ncep.noaa.gov/](https://mag.ncep.noaa.gov/)
     - model & analyses (tons of products): mesoscale, observations (i.e. skew-t), etc
 
+<a name="satellite"/>
 ## Satellite (Visible, Microwave) Imagery and Products
 - NRL NEW,OLD microwave imagery (active storms only):
     - [https://www.nrlmry.navy.mil/tcweb/active/](https://www.nrlmry.navy.mil/tcweb/active/)
@@ -63,6 +90,7 @@ Also extreme weather, climate, various environmental hazards, and random notes
 - viirs (CIMSS): high resolution (but not searchable/indexed for storms)
 - [https://cimss.ssec.wisc.edu/viirs/imagery-viewer/?satellite=npp](https://cimss.ssec.wisc.edu/viirs/imagery-viewer/?satellite=npp)
 
+<a name="live"/>
 ## Live Imagery, Analysis, Data (Good Also for Looking for Genesis)
 - Note: CIRA and CIMSS have the most useful collection of products for analysis
 
@@ -132,7 +160,16 @@ Also extreme weather, climate, various environmental hazards, and random notes
 - NEXTSAT (never used, but has JPSS imagery)
     - [https://www.nrlmry.navy.mil/NEXSAT.html](https://www.nrlmry.navy.mil/NEXSAT.html)
 
+machine dvorak (ADT):
 
+- [https://www.ssd.noaa.gov/PS/TROP/adt.html](https://www.ssd.noaa.gov/PS/TROP/adt.html)
+
+SHIPS / Intensification
+- [https://ftp.nhc.noaa.gov/atcf/stext/?C=M;O=D](https://ftp.nhc.noaa.gov/atcf/stext/?C=M;O=D)
+    - (need to reference a couple papers to understand which types of analysis provide the best prediction for different intervals)
+    - (take into account data (or lack of) fed into such systems (recent hurricane hunter/sondes data, microwave, satellite (daylight-vis or IR))
+
+<a name="oceantemp"/>
 ## SST, OHC
 - Observations and Forecast (a week out?):
     - [https://data.marine.copernicus.eu/viewer/expert?view=viewer](https://data.marine.copernicus.eu/viewer/expert?view=viewer)
@@ -185,17 +222,7 @@ Also extreme weather, climate, various environmental hazards, and random notes
     - requires powerful computer (I can't run it as it is too slow for me)
         - might be better than
 
-machine dvorak (ADT):
-
-- [https://www.ssd.noaa.gov/PS/TROP/adt.html](https://www.ssd.noaa.gov/PS/TROP/adt.html)
-
-
-SHIPS / Intensification
-- [https://ftp.nhc.noaa.gov/atcf/stext/?C=M;O=D](https://ftp.nhc.noaa.gov/atcf/stext/?C=M;O=D)
-    - (need to reference a couple papers to understand which types of analysis provide the best prediction for different intervals)
-    - (take into account data (or lack of) fed into such systems (recent hurricane hunter/sondes data, microwave, satellite (daylight-vis or IR))
-
-
+<a name="atcf"/>
 ## a,b,e,f decks: ATCF products, fixes
 - (a=official forecast, b=best track, f=fixes
 - UCAR mirrors (don't rely on sort by time! search by extension "24.dat" etc...):
@@ -277,7 +304,7 @@ SHIPS / Intensification
 - ECMWF (essential means public) gribs/bufr for storms:
     - [https://essential.ecmwf.int/](https://essential.ecmwf.int/)
 
-
+<a name="ofcl"/>
 ## OFFICIAL sites:
 
 - RSMC:
@@ -326,10 +353,13 @@ SHIPS / Intensification
 
 - [https://severeweather.wmo.int/](https://severeweather.wmo.int/)
 
+<a name="dsonde"/>
 ## Dropsondes (hurricane hunter planes), and other data:
+- [https://www.nhc.noaa.gov/recon.php](https://www.nhc.noaa.gov/recon.php)
+    Schedules and Educational information about recon (Links to Plan of the day and other resources)
 - [https://tropicaltidbits.com](https://tropicaltidbits.com)
     - The best source
-    - Educational see various WMO Training materials on it (i.e.):
+    - Educational see recon link above and various WMO Training materials on it (i.e.):
         - [https://severeweather.wmo.int/TCFW/RAIV_Workshop2023/21_Analysis-Aircraft-Reconnaissance-Data_LisaBucci.pdf](https://severeweather.wmo.int/TCFW/RAIV_Workshop2023/21_Analysis-Aircraft-Reconnaissance-Data_LisaBucci.pdf)
         - [https://www.nhc.noaa.gov/outreach/presentations/nhc2013_aircraftData.pdf](https://www.nhc.noaa.gov/outreach/presentations/nhc2013_aircraftData.pdf)
     - or raw source:
@@ -353,6 +383,7 @@ SHIPS / Intensification
             - super cool 3d visualizations of the drop-sonde data
             - Don't remember if I've used this
 
+<a name="besttracks"/>
 ## Best Tracks and Reports
 - (official, FINAL, US best tracks / reports)
 - [https://www.nhc.noaa.gov/data/tcr/](https://www.nhc.noaa.gov/data/tcr/)
@@ -369,6 +400,7 @@ SHIPS / Intensification
     - Brazil
         - [https://www.marinha.mil.br/chm/dados-do-smm-monitoramento-de-ciclones](https://www.marinha.mil.br/chm/dados-do-smm-monitoramento-de-ciclones)
 
+<a name="archives"/>
 ## Archived data, analysis/reanalysis, verification
 - (HURDAT text table)
     - [https://www.aoml.noaa.gov/hrd/hurdat/All_U.S._Hurricanes.html](https://www.aoml.noaa.gov/hrd/hurdat/All_U.S._Hurricanes.html)
@@ -385,8 +417,8 @@ SHIPS / Intensification
 - NOAA TEXT archive:
 - [https://www.nhc.noaa.gov/archive/text/](https://www.nhc.noaa.gov/archive/text/)
 
-
-## Model products (many sites)
+<a name="models"/>
+## Forecast model products (many sites)
 - [https://storm.aoml.noaa.gov/viewer/](https://storm.aoml.noaa.gov/viewer/)
     - Invests and Active Storms Model Data
         - Useful live error and validation information for models!
@@ -449,7 +481,7 @@ SHIPS / Intensification
     - [https://www.wpc.ncep.noaa.gov/mdlbias/biastext.shtml](https://www.wpc.ncep.noaa.gov/mdlbias/biastext.shtml)
         - subjective model characteristics & biases
 
-
+<a name="ed"/>
 ## Educational powerpoints & training docs:
 - basic:
     - [https://blog.weather.us/tropical-cyclones-101-what-exactly-is-a-tropical-cyclone/](https://blog.weather.us/tropical-cyclones-101-what-exactly-is-a-tropical-cyclone/)
@@ -513,11 +545,12 @@ SHIPS / Intensification
     - [https://www.weather.gov/media/zhu/ZHU_Training_Page/convective_parameters/Hodograph_Extensive.pdf](https://www.weather.gov/media/zhu/ZHU_Training_Page/convective_parameters/Hodograph_Extensive.pdf)
     - [https://www.weather.gov/media/lmk/soo/Hodographs_Wind-Shear.pdf](https://www.weather.gov/media/lmk/soo/Hodographs_Wind-Shear.pdf)
 
-
+<a name="social"/>
 # Third-party social:
 - [https://www.reddit.com/r/TropicalWeather](https://www.reddit.com/r/TropicalWeather)
 
-# General weather and environmental sites (not necessarily cylone specific):
+<a name="general"/>
+# General weather and environmental sites (not necessarily cyclone specific):
 - CAP (WMO):
     - [https://severeweather.wmo.int/](https://severeweather.wmo.int/)
 
@@ -713,6 +746,7 @@ SHIPS / Intensification
         - [https://eccc-msc.github.io/msc-animet](https://eccc-msc.github.io/msc-animet)
         - used for rain rates but has many other visualizations possible
 
+<a name="gribdata"/>
 ## Data (gribs)
 - [https://www.nco.ncep.noaa.gov/pmb/products/](https://www.nco.ncep.noaa.gov/pmb/products/)
     - (Master list?) NOAA data products
@@ -757,8 +791,8 @@ SHIPS / Intensification
         - [https://eccc-msc.github.io/open-data/msc-data/nwp_gdps/readme_gdps_en/#access](https://eccc-msc.github.io/open-data/msc-data/nwp_gdps/readme_gdps_en/#access)
         - [https://eccc-msc.github.io/open-data/msc-data/nwp_gdps/readme_gdps-datamart_en/](https://eccc-msc.github.io/open-data/msc-data/nwp_gdps/readme_gdps-datamart_en/)
 
-
-## Random hazards:
+<a name="other"/>
+## Other hazards:
 - Tornadoes data (reports aggregated from internet):
     - [https://eswd.eu/cgi-bin/eswd.cgi](https://eswd.eu/cgi-bin/eswd.cgi)
 
@@ -786,6 +820,7 @@ SHIPS / Intensification
     - Copernicus (useful for many other things):
         - [https://cds.climate.copernicus.eu/](https://cds.climate.copernicus.eu/)
 
+<a name="strato"/>
 ## High altitude weather and climate
 - High altitude Zonal: winds (Click on wind), also ozone, temperature, potential vorticity, etc
     - [https://ozonewatch.gsfc.nasa.gov/meteorology/NH.html](https://ozonewatch.gsfc.nasa.gov/meteorology/NH.html)
@@ -793,12 +828,14 @@ SHIPS / Intensification
 - Stratosphere observations (very detailed)
     - [https://stratobserve.com/](https://stratobserve.com/)
 
-## Other sites
+<a name="misclinks"/>
+## Other sites with useful data products
     - NESDIS catalog:
         - [https://www.star.nesdis.noaa.gov/portfolio/index.php](https://www.star.nesdis.noaa.gov/portfolio/index.php)
     - OSPO main site (catalog of products and satellite outages/status):
         - [https://www.ospo.noaa.gov/](https://www.ospo.noaa.gov/)
 
+<a name="satarchive"/>
 ## Satellite imagery archive
     - Satellite Imagery Archive (SDS):
         - [https://inventory.ssec.wisc.edu/inventory/](https://inventory.ssec.wisc.edu/inventory/)
@@ -812,15 +849,17 @@ SHIPS / Intensification
     - Satellite look up (details, facts on current and historical satellites):
         - [https://space.oscar.wmo.int/satellites/view/meteosat_11](https://space.oscar.wmo.int/satellites/view/meteosat_11)
 
+<a name="radararchive"/>
 ## Radar archive
     - LEVEL2 radar data archive from nexrad on AWS (tricky to use without packages):
         - [https://s3.amazonaws.com/noaa-nexrad-level2/index.html#2023/11/15/KAMX/](https://s3.amazonaws.com/noaa-nexrad-level2/index.html#2023/11/15/KAMX/)
 
-## Completely random sites
+<a name="random"/>
+## Random sites related to weather, climate
         - [https://coolwx.com/](https://coolwx.com/)
 
-
-## experimental projects (don't use!) and random notes:
+<a name="expnotes"/>
+## experimental personal projects (don't use!) and random notes:
 - notebooks and programs (python3):
     - [https://github.com/JRPdata/nhc_errors](https://github.com/JRPdata/nhc_errors)
         - experimental notebook on intensification OFCL errors
