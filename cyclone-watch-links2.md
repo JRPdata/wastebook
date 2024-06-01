@@ -4,12 +4,15 @@ Also extreme weather, climate, various environmental hazards, and random notes
 ---
 
 ## Surface Analysis (Synoptic)
-surface analysis (synoptic) (see also mesoscale analysis (HRRR) expert in general links)
+    see also mesoscale analysis (HRRR) expert in general links
+
     https://www.nhc.noaa.gov/tafb/?C=M;O=D
         (sort by date: USA_XXZ.pdf) - PDFs have highest quality
         See also OHC (ocean heat content)
             NHC relies TAFB analysis
+
     https://ocean.weather.gov/unified_analysis.php
+
     DOCUMENTATION:
         https://www.wpc.ncep.noaa.gov/sfc/UASfcManualVersion1.pdf#page3
 
