@@ -851,36 +851,36 @@ SHIPS / Intensification
 <a name="misclinks"/>
 
 ## Other sites with useful data products
-    - NESDIS catalog:
-        - [https://www.star.nesdis.noaa.gov/portfolio/index.php](https://www.star.nesdis.noaa.gov/portfolio/index.php)
-    - OSPO main site (catalog of products and satellite outages/status):
-        - [https://www.ospo.noaa.gov/](https://www.ospo.noaa.gov/)
+- NESDIS catalog:
+    - [https://www.star.nesdis.noaa.gov/portfolio/index.php](https://www.star.nesdis.noaa.gov/portfolio/index.php)
+- OSPO main site (catalog of products and satellite outages/status):
+    - [https://www.ospo.noaa.gov/](https://www.ospo.noaa.gov/)
 
 <a name="satarchive"/>
 
 ## Satellite imagery archive
-    - Satellite Imagery Archive (SDS):
-        - [https://inventory.ssec.wisc.edu/inventory/](https://inventory.ssec.wisc.edu/inventory/)
-        - DOCUMENTATION:
-            - [https://edc.occ-data.org/goes16/gdal/](https://edc.occ-data.org/goes16/gdal/)
-            - [https://noaa-goes16.s3.amazonaws.com/Version1.1_Beginners_Guide_to_GOES-R_Series_Data.pdf](https://noaa-goes16.s3.amazonaws.com/Version1.1_Beginners_Guide_to_GOES-R_Series_Data.pdf)
-            - [https://docs.opendata.aws/noaa-goes16/cics-readme.html](https://docs.opendata.aws/noaa-goes16/cics-readme.html)
-            - CODE:
-                - [https://github.com/HamedAlemo/visualize-goes16/blob/main/visualize_GOES16_from_AWS.ipynb](https://github.com/HamedAlemo/visualize-goes16/blob/main/visualize_GOES16_from_AWS.ipynb)
+- Satellite Imagery Archive (SDS):
+    - [https://inventory.ssec.wisc.edu/inventory/](https://inventory.ssec.wisc.edu/inventory/)
+    - DOCUMENTATION:
+        - [https://edc.occ-data.org/goes16/gdal/](https://edc.occ-data.org/goes16/gdal/)
+        - [https://noaa-goes16.s3.amazonaws.com/Version1.1_Beginners_Guide_to_GOES-R_Series_Data.pdf](https://noaa-goes16.s3.amazonaws.com/Version1.1_Beginners_Guide_to_GOES-R_Series_Data.pdf)
+        - [https://docs.opendata.aws/noaa-goes16/cics-readme.html](https://docs.opendata.aws/noaa-goes16/cics-readme.html)
+        - CODE:
+            - [https://github.com/HamedAlemo/visualize-goes16/blob/main/visualize_GOES16_from_AWS.ipynb](https://github.com/HamedAlemo/visualize-goes16/blob/main/visualize_GOES16_from_AWS.ipynb)
 
-    - Satellite look up (details, facts on current and historical satellites):
-        - [https://space.oscar.wmo.int/satellites/view/meteosat_11](https://space.oscar.wmo.int/satellites/view/meteosat_11)
+- Satellite look up (details, facts on current and historical satellites):
+    - [https://space.oscar.wmo.int/satellites/view/meteosat_11](https://space.oscar.wmo.int/satellites/view/meteosat_11)
 
 <a name="radararchive"/>
 
 ## Radar archive
-    - LEVEL2 radar data archive from nexrad on AWS (tricky to use without packages):
-        - [https://s3.amazonaws.com/noaa-nexrad-level2/index.html#2023/11/15/KAMX/](https://s3.amazonaws.com/noaa-nexrad-level2/index.html#2023/11/15/KAMX/)
+- LEVEL2 radar data archive from nexrad on AWS (tricky to use without packages):
+    - [https://s3.amazonaws.com/noaa-nexrad-level2/index.html#2023/11/15/KAMX/](https://s3.amazonaws.com/noaa-nexrad-level2/index.html#2023/11/15/KAMX/)
 
 <a name="random"/>
 
 ## Random sites related to weather, climate
-        - [https://coolwx.com/](https://coolwx.com/)
+- [https://coolwx.com/](https://coolwx.com/)
 
 <a name="expnotes"/>
 
