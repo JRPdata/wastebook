@@ -841,8 +841,9 @@ SHIPS / Intensification
 <a name="strato"/>
 
 ## High altitude weather and climate
-- High altitude Zonal: winds (Click on wind), also ozone, temperature, potential vorticity, etc
+- High altitude Zonal
     - [https://ozonewatch.gsfc.nasa.gov/meteorology/NH.html](https://ozonewatch.gsfc.nasa.gov/meteorology/NH.html)
+        - Winds (Click on wind), also ozone, temperature, potential vorticity, etc
 
 - Stratosphere observations (very detailed)
     - [https://stratobserve.com/](https://stratobserve.com/)
