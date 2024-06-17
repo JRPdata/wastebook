@@ -364,7 +364,7 @@ SHIPS / Intensification
 
 <a name="dsonde"/>
 
-## Dropsondes (hurricane hunter planes), and other data:
+## Dropsondes (hurricane hunter planes), Recon, and other data:
 - [https://www.nhc.noaa.gov/recon.php](https://www.nhc.noaa.gov/recon.php)
     Schedules and Educational information about recon (Links to Plan of the day and other resources)
 - [https://tropicaltidbits.com](https://tropicaltidbits.com)
@@ -382,8 +382,9 @@ SHIPS / Intensification
             - [https://www.weather.gov/tg/obsfiles](https://www.weather.gov/tg/obsfiles)
             - [https://w2.weather.gov/source/datamgmt/filstnd.html](https://w2.weather.gov/source/datamgmt/filstnd.html)
         - Other data:
-        - [https://tgftp.nws.noaa.gov/SL.us008001/](https://tgftp.nws.noaa.gov/SL.us008001/)
-
+            - [https://tgftp.nws.noaa.gov/SL.us008001/](https://tgftp.nws.noaa.gov/SL.us008001/)
+        - Recon (i.e. AF surveys):
+            - [https://tgftp.nws.noaa.gov/SL.us008001/DF.an/DC.sluan/DS.recco/?C=M;O=D](https://tgftp.nws.noaa.gov/SL.us008001/DF.an/DC.sluan/DS.recco/?C=M;O=D)
 - NESDIS:
     - (not live):
         - [https://manati.star.nesdis.noaa.gov/datasets/IWRAPDataDisplay.php?&category=IWRAP&storm=NIGEL&year=2023&flight=20230920I1&product=1](https://manati.star.nesdis.noaa.gov/datasets/IWRAPDataDisplay.php?&category=IWRAP&storm=NIGEL&year=2023&flight=20230920I1&product=1)
@@ -447,6 +448,9 @@ SHIPS / Intensification
 - [https://www.fnmoc.navy.mil/wxmap_cgi/index.html#global](https://www.fnmoc.navy.mil/wxmap_cgi/index.html#global)
     - Navy collection of model charts (NAVGEM, GFS, COAMPS, etc)
 
+- [https://ocean.weather.gov/windprob.php](https://ocean.weather.gov/windprob.php)
+    - Wind exceedance probability charts for GEFS & NAEFS (good for getting forecast probabilities on specific wind speeds: can choose from several limits in 5 to 10 ~kt increments)
+
 - [https://www.atmos.albany.edu/facstaff/tang/tcguidance/](https://www.atmos.albany.edu/facstaff/tang/tcguidance/)
     - TC guidance
 
@@ -503,7 +507,9 @@ SHIPS / Intensification
         - [https://severeweather.wmo.int/TCFW/13WMO_Workshop2019/03_TC_genesis_WMO2019.pdf](https://severeweather.wmo.int/TCFW/13WMO_Workshop2019/03_TC_genesis_WMO2019.pdf)
     - NHC genesis forecasts:
         - [https://www.noaa.gov/sites/default/files/2022-05/2Blake-SECARTwebinar-20220517.pdf](https://www.noaa.gov/sites/default/files/2022-05/2Blake-SECARTwebinar-20220517.pdf)
-
+    - General Meteorological knowledge, assembled by Houston CWSU (ZHU):
+        - [https://www.weather.gov/source/zhu/ZHU_Training_Page/ZHU_Training_Page.html](https://www.weather.gov/source/zhu/ZHU_Training_Page/ZHU_Training_Page.html)
+            - a wide survey of many different concepts
 - NHC library (link collection page, not actual library but meta page to all library type resources):
     - [https://www.aoml.noaa.gov/general/lib/lib1/nhclib/](https://www.aoml.noaa.gov/general/lib/lib1/nhclib/)
 
@@ -714,6 +720,8 @@ SHIPS / Intensification
         - Different reanalyses
             - Global / Hemispheric / Regions
             - 2m temps, Sea surface Temps, etc
+    - [https://oz4caster.wordpress.com/cfsr/](https://oz4caster.wordpress.com/cfsr/)
+        - CFSR Global anomaly and other charts
 
     - SST:
         - [https://coralreefwatch.noaa.gov/product/5km/index_5km_sst.php](https://coralreefwatch.noaa.gov/product/5km/index_5km_sst.php)
@@ -773,6 +781,9 @@ SHIPS / Intensification
     - Mirrors select other model data (ie NAVGEM)
 - [https://nrlgodae1.nrlmry.navy.mil/cgi-bin/datalist.pl?generate=summary](https://nrlgodae1.nrlmry.navy.mil/cgi-bin/datalist.pl?generate=summary)
     - (huge archive for model grib data NAVGEM/COAMPS/NOGAPS/FNMOC)
+- [https://registry.opendata.aws/noaa-gefs/](https://registry.opendata.aws/noaa-gefs/)
+    - GEFS gribs going back to 2017 (updated near real time)
+        - See wastebook/gefs-aws.ipynb and hot-july/gefs/auto-download-aws.py
 - [https://confluence.ecmwf.int/display/DAC/ECMWF+open+data%3A+real-time+forecasts](https://confluence.ecmwf.int/display/DAC/ECMWF+open+data%3A+real-time+forecasts)
 - [https://opengribs.org/en/gribs](https://opengribs.org/en/gribs)
 - [https://luckgrib.com/models/gefs/](https://luckgrib.com/models/gefs/)
