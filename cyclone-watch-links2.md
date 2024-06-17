@@ -55,6 +55,7 @@ Also extreme weather, climate, various environmental hazards, and random notes
 ## Satellite (Visible, Microwave) Imagery and Products
 - NRL NEW,OLD microwave imagery (active storms only):
     - [https://www.nrlmry.navy.mil/tcweb/active/](https://www.nrlmry.navy.mil/tcweb/active/)
+        - (Educational) Training documentationation [https://www.nrlmry.navy.mil/training-bin/training.cgi](https://www.nrlmry.navy.mil/training-bin/training.cgi)
     - [https://www.nrlmry.navy.mil/TC.html](https://www.nrlmry.navy.mil/TC.html)
 - FNMOC microwave imagery (active storms only):
     - [https://www.fnmoc.navy.mil/tcweb/cgi-bin/tc_home.cgi](https://www.fnmoc.navy.mil/tcweb/cgi-bin/tc_home.cgi)
