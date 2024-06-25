@@ -292,9 +292,7 @@ SHIPS / Intensification
 - [https://charts.ecmwf.int/?facets=%7B%22Product%20type%22%3A%5B%5D%2C%22Range%22%3A%5B%5D%2C%22Parameters%22%3A%5B%22Tropical%20cyclones%22%5D%7D](https://charts.ecmwf.int/?facets=%7B%22Product%20type%22%3A%5B%5D%2C%22Range%22%3A%5B%5D%2C%22Parameters%22%3A%5B%22Tropical%20cyclones%22%5D%7D)
     - ECMWF Genesis, frequency, intensity, ACE, etc Probabilities and tracks
 
-- CPC storm tracks and ENSO(El Nino La Nina)/MJO products
-    - [https://origin.cpc.ncep.noaa.gov/products/precip/CWlink/stormtracks/mstrack.shtml](https://origin.cpc.ncep.noaa.gov/products/precip/CWlink/stormtracks/mstrack.shtml)
-    - [https://origin.cpc.ncep.noaa.gov/products/precip/CWlink/stormtracks/strack_NH.shtml](https://origin.cpc.ncep.noaa.gov/products/precip/CWlink/stormtracks/strack_NH.shtml)
+- CPC ENSO(El Nino La Nina)/MJO products (storm tracks not updated)
     - [https://origin.cpc.ncep.noaa.gov/products/precip/CWlink/MJO/mjo.shtml](https://origin.cpc.ncep.noaa.gov/products/precip/CWlink/MJO/mjo.shtml)
     - [https://origin.cpc.ncep.noaa.gov/products/precip/CWlink/MJO/enso.shtml](https://origin.cpc.ncep.noaa.gov/products/precip/CWlink/MJO/enso.shtml)
         - See also links and pdfs at bottom for MJO/ENSO
