@@ -312,6 +312,9 @@ SHIPS / Intensification
     - extended range GEFS velocity potential anomaly (00z run has 35 days out, other runs only to 16 days):
         - [https://www.tropicaltidbits.com/analysis/models/?model=gfs-ens&region=global&pkg=chi200Mean](https://www.tropicaltidbits.com/analysis/models/?model=gfs-ens&region=global&pkg=chi200Mean)
 
+- EMC/NOAA TC genesis probability charts, storm tracks, and text files (esp. useful for ensemble tracks):
+    - [https://www.emc.ncep.noaa.gov/gmb/tpm/emchurr/tcgen/](https://www.emc.ncep.noaa.gov/gmb/tpm/emchurr/tcgen/)
+
 - CIRA experimental TCGI (genesis probability trends charts for invests, not too accurate but roughly useful as a sanity check?):
     - [https://rammb.cira.colostate.edu/research/tropical_cyclones/tc_genesis_index/](https://rammb.cira.colostate.edu/research/tropical_cyclones/tc_genesis_index/)
     - Active directory: [https://rammb.cira.colostate.edu/realtime_data/nhc/tcgi/](https://rammb.cira.colostate.edu/realtime_data/nhc/tcgi/)
@@ -436,6 +439,11 @@ SHIPS / Intensification
 
 - NOAA TEXT archive:
 - [https://www.nhc.noaa.gov/archive/text/](https://www.nhc.noaa.gov/archive/text/)
+
+- (Operational) Model verification (EMC/NOAA)
+    - [https://www.emc.ncep.noaa.gov/users/verification/global/gfs/prod/](https://www.emc.ncep.noaa.gov/users/verification/global/gfs/prod/)
+        - Main models, ensembles comparison (operational verification, and past years)
+    - For other models, see also [https://www.emc.ncep.noaa.gov/emc/pages/verification.php](https://www.emc.ncep.noaa.gov/emc/pages/verification.php)
 
 <a name="models"/>
 
