@@ -312,6 +312,9 @@ SHIPS / Intensification
     - extended range GEFS velocity potential anomaly (00z run has 35 days out, other runs only to 16 days):
         - [https://www.tropicaltidbits.com/analysis/models/?model=gfs-ens&region=global&pkg=chi200Mean](https://www.tropicaltidbits.com/analysis/models/?model=gfs-ens&region=global&pkg=chi200Mean)
 
+- CIRA experimental TCGI (genesis probability trends charts for invests, not too accurate but roughly useful as a sanity check?):
+    - [https://rammb.cira.colostate.edu/research/tropical_cyclones/tc_genesis_index/](https://rammb.cira.colostate.edu/research/tropical_cyclones/tc_genesis_index/)
+    - Active directory: [https://rammb.cira.colostate.edu/realtime_data/nhc/tcgi/](https://rammb.cira.colostate.edu/realtime_data/nhc/tcgi/)
 
 - ECMWF (essential means public) gribs/bufr for storms:
     - [https://essential.ecmwf.int/](https://essential.ecmwf.int/)
