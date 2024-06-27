@@ -55,6 +55,7 @@ Also extreme weather, climate, various environmental hazards, and random notes
 ## Satellite (Visible, Microwave) Imagery and Products
 - NRL NEW,OLD microwave imagery (active storms only):
     - [https://www.nrlmry.navy.mil/tcweb/active/](https://www.nrlmry.navy.mil/tcweb/active/)
+        - (Educational) Training documentation [https://www.nrlmry.navy.mil/training-bin/training.cgi](https://www.nrlmry.navy.mil/training-bin/training.cgi)
     - [https://www.nrlmry.navy.mil/TC.html](https://www.nrlmry.navy.mil/TC.html)
 - FNMOC microwave imagery (active storms only):
     - [https://www.fnmoc.navy.mil/tcweb/cgi-bin/tc_home.cgi](https://www.fnmoc.navy.mil/tcweb/cgi-bin/tc_home.cgi)
@@ -94,6 +95,9 @@ Also extreme weather, climate, various environmental hazards, and random notes
 
 - viirs (CIMSS): high resolution (but not searchable/indexed for storms)
 - [https://cimss.ssec.wisc.edu/viirs/imagery-viewer/?satellite=npp](https://cimss.ssec.wisc.edu/viirs/imagery-viewer/?satellite=npp)
+
+- NHC analysis products (Hovmoller satelltie imagery for TC development regions, upper air time sections, etc):
+    - [https://www.nhc.noaa.gov/analysis_tools.php](https://www.nhc.noaa.gov/analysis_tools.php)
 
 <a name="live"/>
 
@@ -288,9 +292,7 @@ SHIPS / Intensification
 - [https://charts.ecmwf.int/?facets=%7B%22Product%20type%22%3A%5B%5D%2C%22Range%22%3A%5B%5D%2C%22Parameters%22%3A%5B%22Tropical%20cyclones%22%5D%7D](https://charts.ecmwf.int/?facets=%7B%22Product%20type%22%3A%5B%5D%2C%22Range%22%3A%5B%5D%2C%22Parameters%22%3A%5B%22Tropical%20cyclones%22%5D%7D)
     - ECMWF Genesis, frequency, intensity, ACE, etc Probabilities and tracks
 
-- CPC storm tracks and ENSO(El Nino La Nina)/MJO products
-    - [https://origin.cpc.ncep.noaa.gov/products/precip/CWlink/stormtracks/mstrack.shtml](https://origin.cpc.ncep.noaa.gov/products/precip/CWlink/stormtracks/mstrack.shtml)
-    - [https://origin.cpc.ncep.noaa.gov/products/precip/CWlink/stormtracks/strack_NH.shtml](https://origin.cpc.ncep.noaa.gov/products/precip/CWlink/stormtracks/strack_NH.shtml)
+- CPC ENSO(El Nino La Nina)/MJO products (storm tracks not updated)
     - [https://origin.cpc.ncep.noaa.gov/products/precip/CWlink/MJO/mjo.shtml](https://origin.cpc.ncep.noaa.gov/products/precip/CWlink/MJO/mjo.shtml)
     - [https://origin.cpc.ncep.noaa.gov/products/precip/CWlink/MJO/enso.shtml](https://origin.cpc.ncep.noaa.gov/products/precip/CWlink/MJO/enso.shtml)
         - See also links and pdfs at bottom for MJO/ENSO
@@ -308,6 +310,12 @@ SHIPS / Intensification
     - extended range GEFS velocity potential anomaly (00z run has 35 days out, other runs only to 16 days):
         - [https://www.tropicaltidbits.com/analysis/models/?model=gfs-ens&region=global&pkg=chi200Mean](https://www.tropicaltidbits.com/analysis/models/?model=gfs-ens&region=global&pkg=chi200Mean)
 
+- EMC/NOAA TC genesis probability charts, storm tracks, and text files (esp. useful for ensemble tracks):
+    - [https://www.emc.ncep.noaa.gov/gmb/tpm/emchurr/tcgen/](https://www.emc.ncep.noaa.gov/gmb/tpm/emchurr/tcgen/)
+
+- CIRA experimental TCGI (genesis probability trends charts for invests, not too accurate but roughly useful as a sanity check?):
+    - [https://rammb.cira.colostate.edu/research/tropical_cyclones/tc_genesis_index/](https://rammb.cira.colostate.edu/research/tropical_cyclones/tc_genesis_index/)
+    - Active directory: [https://rammb.cira.colostate.edu/realtime_data/nhc/tcgi/](https://rammb.cira.colostate.edu/realtime_data/nhc/tcgi/)
 
 - ECMWF (essential means public) gribs/bufr for storms:
     - [https://essential.ecmwf.int/](https://essential.ecmwf.int/)
@@ -429,6 +437,11 @@ SHIPS / Intensification
 
 - NOAA TEXT archive:
 - [https://www.nhc.noaa.gov/archive/text/](https://www.nhc.noaa.gov/archive/text/)
+
+- (Operational) Model verification (EMC/NOAA)
+    - [https://www.emc.ncep.noaa.gov/users/verification/global/gfs/prod/](https://www.emc.ncep.noaa.gov/users/verification/global/gfs/prod/)
+        - Main models, ensembles comparison (operational verification, and past years)
+    - For other models, see also [https://www.emc.ncep.noaa.gov/emc/pages/verification.php](https://www.emc.ncep.noaa.gov/emc/pages/verification.php)
 
 <a name="models"/>
 
