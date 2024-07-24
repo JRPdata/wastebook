@@ -372,6 +372,12 @@ SHIPS / Intensification
         - [https://www.metservice.com/warnings/home](https://www.metservice.com/warnings/home)
 
 - [https://severeweather.wmo.int/](https://severeweather.wmo.int/)
+- WMO 386 Manual on codes:
+    - [https://www.weather.gov/media/marine/WMO_386_Vol_I_2009_en.pdf](https://www.weather.gov/media/marine/WMO_386_Vol_I_2009_en.pdf)
+- WMO Header info (GTS (-2024)
+    - [https://community.wmo.int/en/activity-areas/operational-information-service/volume-c1](https://community.wmo.int/en/activity-areas/operational-information-service/volume-c1)
+    - Header name list (Station list):
+        -  [https://wis.wmo.int/operational-info/VolumeC1/VolC1.txt](https://wis.wmo.int/operational-info/VolumeC1/VolC1.txt)
 
 <a name="dsonde"/>
 
