@@ -380,8 +380,13 @@ SHIPS / Intensification
         -  [https://wis.wmo.int/operational-info/VolumeC1/VolC1.txt](https://wis.wmo.int/operational-info/VolumeC1/VolC1.txt)
     - WMO doc for header message formats (WT = tropical cyclone warning):
         - [https://community.wmo.int/en/ahl-table-definitions](https://community.wmo.int/en/ahl-table-definitions)
-    - Tropical Cyclone warnings from GTS (includes prognostic reasoning):
-        - [https://tgftp.nws.noaa.gov/data/raw/wt/](https://tgftp.nws.noaa.gov/data/raw/wt/)
+    - Tropical Cyclone warnings from GTS (includes prognostic reasoning, position fixes, forecasts):
+        - [https://tgftp.nws.noaa.gov/data/raw/wt/?C=M;O=D](https://tgftp.nws.noaa.gov/data/raw/wt/?C=M;O=D)
+    - SIGMET warnings (position fixes):
+        - [https://tgftp.nws.noaa.gov/data/raw/wc/?C=M;O=D](https://tgftp.nws.noaa.gov/data/raw/wc/?C=M;O=D)
+    - Analysis from TCs and severe weather (also TWO and mesoscale discussions): [https://tgftp.nws.noaa.gov/data/raw/ac/?C=M;O=D](https://tgftp.nws.noaa.gov/data/raw/ac/?C=M;O=D)
+    - Forecast advisories (alternative, more standardized format compared to regular NHC text advisories):
+        - [https://tgftp.nws.noaa.gov/data/raw/fk/?C=M;O=D]([https://tgftp.nws.noaa.gov/data/raw/fk/?C=M;O=D)
 
 <a name="dsonde"/>
 
