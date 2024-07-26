@@ -387,6 +387,13 @@ SHIPS / Intensification
     - Analysis from TCs and severe weather (also TWO and mesoscale discussions): [https://tgftp.nws.noaa.gov/data/raw/ac/?C=M;O=D](https://tgftp.nws.noaa.gov/data/raw/ac/?C=M;O=D)
     - Forecast advisories (alternative, more standardized format compared to regular NHC text advisories):
         - [https://tgftp.nws.noaa.gov/data/raw/fk/?C=M;O=D]([https://tgftp.nws.noaa.gov/data/raw/fk/?C=M;O=D)
+    - WIS2 (2024+)
+        - JMA's WIS portal (searchable, rss, and scripts to mirror txt files):
+            - [https://www.wis-jma.go.jp/cms/gisc_tokyo/JMA_WIS_services.htm](https://www.wis-jma.go.jp/cms/gisc_tokyo/JMA_WIS_services.html)
+            - Limited Archive (of GTS mirrored data) by station (see above station list for abbrevs) (this archive is better than NHC tgftp for warnings, which only provides last message):
+                - [https://www.wis-jma.go.jp/d/o/](https://www.wis-jma.go.jp/d/o/)
+            - TC warnings:
+                - [https://www.wis-jma.go.jp/data/browse?Access=Open&Type=Alphanumeric&Category=Warning&Subcategory=Tropical+cyclone&Satellite=&Discipline=&Grid=&Resolution=&Area=&Level=&Region=&Location=&Indicator=&ReferenceTime=&LinkText=&ContentType=HTML](https://www.wis-jma.go.jp/data/browse?Access=Open&Type=Alphanumeric&Category=Warning&Subcategory=Tropical+cyclone&Satellite=&Discipline=&Grid=&Resolution=&Area=&Level=&Region=&Location=&Indicator=&ReferenceTime=&LinkText=&ContentType=HTML)
 
 <a name="dsonde"/>
 
