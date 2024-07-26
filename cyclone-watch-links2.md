@@ -397,6 +397,10 @@ SHIPS / Intensification
                 - [https://www.wis-jma.go.jp/d/o/](https://www.wis-jma.go.jp/d/o/)
             - TC warnings:
                 - [https://www.wis-jma.go.jp/data/browse?Access=Open&Type=Alphanumeric&Category=Warning&Subcategory=Tropical+cyclone&Satellite=&Discipline=&Grid=&Resolution=&Area=&Level=&Region=&Location=&Indicator=&ReferenceTime=&LinkText=&ContentType=HTML](https://www.wis-jma.go.jp/data/browse?Access=Open&Type=Alphanumeric&Category=Warning&Subcategory=Tropical+cyclone&Satellite=&Discipline=&Grid=&Resolution=&Area=&Level=&Region=&Location=&Indicator=&ReferenceTime=&LinkText=&ContentType=HTML)
+        - DWD's WIS portal (not too functional?):
+            - [https://gisc.dwd.de/](https://gisc.dwd.de/)
+        - WIS2 transition space (status):
+            - [https://wmo-teams.atlassian.net/wiki/spaces/WIS2/overview?homepageId=117145996](https://wmo-teams.atlassian.net/wiki/spaces/WIS2/overview?homepageId=117145996)
 
 <a name="dsonde"/>
 
