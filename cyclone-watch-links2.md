@@ -386,7 +386,7 @@ SHIPS / Intensification
         - [https://tgftp.nws.noaa.gov/data/raw/wc/?C=M;O=D](https://tgftp.nws.noaa.gov/data/raw/wc/?C=M;O=D)
     - Analysis from TCs and severe weather (also TWO and mesoscale discussions): [https://tgftp.nws.noaa.gov/data/raw/ac/?C=M;O=D](https://tgftp.nws.noaa.gov/data/raw/ac/?C=M;O=D)
     - Forecast advisories (alternative, more standardized format compared to regular NHC text advisories):
-        - [https://tgftp.nws.noaa.gov/data/raw/fk/?C=M;O=D]([https://tgftp.nws.noaa.gov/data/raw/fk/?C=M;O=D)
+        - [https://tgftp.nws.noaa.gov/data/raw/fk/?C=M;O=D](https://tgftp.nws.noaa.gov/data/raw/fk/?C=M;O=D)
     - WIS2 (2024+)
         - JMA's WIS portal (searchable, rss, and scripts to mirror txt files):
             - [https://www.wis-jma.go.jp/cms/gisc_tokyo/JMA_WIS_services.htm](https://www.wis-jma.go.jp/cms/gisc_tokyo/JMA_WIS_services.html)
