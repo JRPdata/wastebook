@@ -374,21 +374,23 @@ SHIPS / Intensification
 - [https://severeweather.wmo.int/](https://severeweather.wmo.int/)
 - WMO 386 Manual on codes:
     - [https://www.weather.gov/media/marine/WMO_386_Vol_I_2009_en.pdf](https://www.weather.gov/media/marine/WMO_386_Vol_I_2009_en.pdf)
-- WMO Header info (GTS (-2024))
-    - [https://community.wmo.int/en/activity-areas/operational-information-service/volume-c1](https://community.wmo.int/en/activity-areas/operational-information-service/volume-c1)
-    - Header name list (Station list):
+- WMO data (GTS, WIS2)
+    - Header info
+        - [https://community.wmo.int/en/activity-areas/operational-information-service/volume-c1](https://community.wmo.int/en/activity-areas/operational-information-service/volume-c1)
+    - Header name abbreviation list (Station abbreviations list):
         -  [https://wis.wmo.int/operational-info/VolumeC1/VolC1.txt](https://wis.wmo.int/operational-info/VolumeC1/VolC1.txt)
     - WMO doc for header message formats (WT = tropical cyclone warning):
         - [https://community.wmo.int/en/ahl-table-definitions](https://community.wmo.int/en/ahl-table-definitions)
-    - Tropical Cyclone warnings from GTS (includes prognostic reasoning, position fixes, forecasts):
-        - [https://tgftp.nws.noaa.gov/data/raw/wt/?C=M;O=D](https://tgftp.nws.noaa.gov/data/raw/wt/?C=M;O=D)
-    - SIGMET warnings (position fixes):
-        - [https://tgftp.nws.noaa.gov/data/raw/wc/?C=M;O=D](https://tgftp.nws.noaa.gov/data/raw/wc/?C=M;O=D)
-    - Analysis from TCs and severe weather (also TWO and mesoscale discussions):
-        - [https://tgftp.nws.noaa.gov/data/raw/ac/?C=M;O=D](https://tgftp.nws.noaa.gov/data/raw/ac/?C=M;O=D)
-    - Forecast advisories (alternative, more standardized format compared to regular NHC text advisories):
-        - [https://tgftp.nws.noaa.gov/data/raw/fk/?C=M;O=D](https://tgftp.nws.noaa.gov/data/raw/fk/?C=M;O=D)
-    - WIS2 (2024+)
+    - GTS links:
+        - Tropical Cyclone warnings from GTS (includes prognostic reasoning, position fixes, forecasts):
+            - [https://tgftp.nws.noaa.gov/data/raw/wt/?C=M;O=D](https://tgftp.nws.noaa.gov/data/raw/wt/?C=M;O=D)
+        - SIGMET warnings (position fixes):
+            - [https://tgftp.nws.noaa.gov/data/raw/wc/?C=M;O=D](https://tgftp.nws.noaa.gov/data/raw/wc/?C=M;O=D)
+        - Analysis from TCs and severe weather (also TWO and mesoscale discussions):
+            - [https://tgftp.nws.noaa.gov/data/raw/ac/?C=M;O=D](https://tgftp.nws.noaa.gov/data/raw/ac/?C=M;O=D)
+        - Forecast advisories (alternative, more standardized format compared to regular NHC text advisories):
+            - [https://tgftp.nws.noaa.gov/data/raw/fk/?C=M;O=D](https://tgftp.nws.noaa.gov/data/raw/fk/?C=M;O=D)
+    - WIS2 links (2024+)
         - JMA's WIS portal (searchable, rss, and scripts to mirror txt files):
             - [https://www.wis-jma.go.jp/cms/gisc_tokyo/JMA_WIS_services.htm](https://www.wis-jma.go.jp/cms/gisc_tokyo/JMA_WIS_services.html)
             - Limited Archive (of GTS mirrored data) by station (see above station list for abbrevs) (this archive is better than NHC tgftp for warnings, which only provides last message):
