@@ -386,8 +386,11 @@ SHIPS / Intensification
             - [https://tgftp.nws.noaa.gov/data/raw/wt/?C=M;O=D](https://tgftp.nws.noaa.gov/data/raw/wt/?C=M;O=D)
         - SIGMET warnings (position fixes):
             - [https://tgftp.nws.noaa.gov/data/raw/wc/?C=M;O=D](https://tgftp.nws.noaa.gov/data/raw/wc/?C=M;O=D)
-        - Analysis from TCs and severe weather (also TWO and mesoscale discussions):
+        - Analysis from TCs and severe weather (also CP TWO, and mesoscale discussions):
             - [https://tgftp.nws.noaa.gov/data/raw/ac/?C=M;O=D](https://tgftp.nws.noaa.gov/data/raw/ac/?C=M;O=D)
+        - The raw NHC TWO and TWD for Atlantic/East Pacific basins (KNHC):
+            - [https://tgftp.nws.noaa.gov/data/raw/ab/?C=M;O=D](https://tgftp.nws.noaa.gov/data/raw/ab/?C=M;O=D)
+            - [https://tgftp.nws.noaa.gov/data/raw/ax/?C=M;O=D](https://tgftp.nws.noaa.gov/data/raw/ax/?C=M;O=D)
         - Forecast advisories (alternative, more standardized format compared to regular NHC text advisories):
             - [https://tgftp.nws.noaa.gov/data/raw/fk/?C=M;O=D](https://tgftp.nws.noaa.gov/data/raw/fk/?C=M;O=D)
     - WIS2 links (2024+)
