@@ -268,6 +268,7 @@ SHIPS / Intensification
     - [https://www.nrlmry.navy.mil/atcf_web/docs/database/new/newfdeck.txt](https://www.nrlmry.navy.mil/atcf_web/docs/database/new/newfdeck.txt)
     - [https://ftp.nhc.noaa.gov/atcf/README](https://ftp.nhc.noaa.gov/atcf/README)
     - [https://www.nrlmry.navy.mil/atcf_web/docs/database/new/edeck.txt](https://www.nrlmry.navy.mil/atcf_web/docs/database/new/edeck.txt)
+    - [http://www.emc.ncep.noaa.gov/HWRF/tcvitals-draft.html](http://www.emc.ncep.noaa.gov/HWRF/tcvitals-draft.html)
 
 <a name="genesis"/>
 
