@@ -10,6 +10,7 @@ Also extreme weather, climate, various environmental hazards, and random notes
 - [Realtime/Live Imagery, Analysis](#live)
 - [Ocean Temperatures (SST, OHC)](#oceantemp)
 - [Decks & Fixes - Automated data (ATCF)](#atcf)
+- [TC Genesis and Forecasts](#genesis)
 - [Official Sites](#ofcl)
 - [Dropsondes (hurricane hunter planes)](#dsonde)
 - [Best tracks](#besttracks)
@@ -267,6 +268,9 @@ SHIPS / Intensification
     - [https://www.nrlmry.navy.mil/atcf_web/docs/database/new/newfdeck.txt](https://www.nrlmry.navy.mil/atcf_web/docs/database/new/newfdeck.txt)
     - [https://ftp.nhc.noaa.gov/atcf/README](https://ftp.nhc.noaa.gov/atcf/README)
     - [https://www.nrlmry.navy.mil/atcf_web/docs/database/new/edeck.txt](https://www.nrlmry.navy.mil/atcf_web/docs/database/new/edeck.txt)
+    - [http://www.emc.ncep.noaa.gov/HWRF/tcvitals-draft.html](http://www.emc.ncep.noaa.gov/HWRF/tcvitals-draft.html)
+
+<a name="genesis"/>
 
 # TC Genesis and Forecasts:
 
@@ -369,6 +373,38 @@ SHIPS / Intensification
         - [https://www.metservice.com/warnings/home](https://www.metservice.com/warnings/home)
 
 - [https://severeweather.wmo.int/](https://severeweather.wmo.int/)
+- WMO 386 Manual on codes:
+    - [https://www.weather.gov/media/marine/WMO_386_Vol_I_2009_en.pdf](https://www.weather.gov/media/marine/WMO_386_Vol_I_2009_en.pdf)
+- WMO data (GTS, WIS2)
+    - Header info
+        - [https://community.wmo.int/en/activity-areas/operational-information-service/volume-c1](https://community.wmo.int/en/activity-areas/operational-information-service/volume-c1)
+    - Header name abbreviation list (Station abbreviations list):
+        -  [https://wis.wmo.int/operational-info/VolumeC1/VolC1.txt](https://wis.wmo.int/operational-info/VolumeC1/VolC1.txt)
+    - WMO doc for header message formats (WT = tropical cyclone warning):
+        - [https://community.wmo.int/en/ahl-table-definitions](https://community.wmo.int/en/ahl-table-definitions)
+    - GTS links:
+        - Tropical Cyclone warnings from GTS (includes prognostic reasoning, position fixes, forecasts):
+            - [https://tgftp.nws.noaa.gov/data/raw/wt/?C=M;O=D](https://tgftp.nws.noaa.gov/data/raw/wt/?C=M;O=D)
+        - SIGMET warnings (position fixes):
+            - [https://tgftp.nws.noaa.gov/data/raw/wc/?C=M;O=D](https://tgftp.nws.noaa.gov/data/raw/wc/?C=M;O=D)
+        - Analysis from TCs and severe weather (also CP TWO, and mesoscale discussions):
+            - [https://tgftp.nws.noaa.gov/data/raw/ac/?C=M;O=D](https://tgftp.nws.noaa.gov/data/raw/ac/?C=M;O=D)
+        - The raw NHC TWO and TWD for Atlantic/East Pacific basins (KNHC):
+            - [https://tgftp.nws.noaa.gov/data/raw/ab/?C=M;O=D](https://tgftp.nws.noaa.gov/data/raw/ab/?C=M;O=D)
+            - [https://tgftp.nws.noaa.gov/data/raw/ax/?C=M;O=D](https://tgftp.nws.noaa.gov/data/raw/ax/?C=M;O=D)
+        - Forecast advisories (alternative, more standardized format compared to regular NHC text advisories):
+            - [https://tgftp.nws.noaa.gov/data/raw/fk/?C=M;O=D](https://tgftp.nws.noaa.gov/data/raw/fk/?C=M;O=D)
+    - WIS2 links (2024+)
+        - JMA's WIS portal (searchable, rss, and scripts to mirror txt files):
+            - [https://www.wis-jma.go.jp/cms/gisc_tokyo/JMA_WIS_services.htm](https://www.wis-jma.go.jp/cms/gisc_tokyo/JMA_WIS_services.html)
+            - Limited Archive (of GTS mirrored data) by station (see above station list for abbrevs) (this archive is better than NHC tgftp for warnings, which only provides last message):
+                - [https://www.wis-jma.go.jp/d/o/](https://www.wis-jma.go.jp/d/o/)
+            - TC warnings:
+                - [https://www.wis-jma.go.jp/data/browse?Access=Open&Type=Alphanumeric&Category=Warning&Subcategory=Tropical+cyclone&Satellite=&Discipline=&Grid=&Resolution=&Area=&Level=&Region=&Location=&Indicator=&ReferenceTime=&LinkText=&ContentType=HTML](https://www.wis-jma.go.jp/data/browse?Access=Open&Type=Alphanumeric&Category=Warning&Subcategory=Tropical+cyclone&Satellite=&Discipline=&Grid=&Resolution=&Area=&Level=&Region=&Location=&Indicator=&ReferenceTime=&LinkText=&ContentType=HTML)
+        - DWD's WIS portal (not too functional?):
+            - [https://gisc.dwd.de/](https://gisc.dwd.de/)
+        - WIS2 transition space (status):
+            - [https://wmo-teams.atlassian.net/wiki/spaces/WIS2/overview?homepageId=117145996](https://wmo-teams.atlassian.net/wiki/spaces/WIS2/overview?homepageId=117145996)
 
 <a name="dsonde"/>
 
@@ -567,9 +603,6 @@ SHIPS / Intensification
 
         - "Advisory and Warning Centres"
             - has all RSMC links
-
-    - WMO doc for WMO file/message formats used online:
-    - [https://community.wmo.int/en/ahl-table-definitions](https://community.wmo.int/en/ahl-table-definitions)
 
     - NOAA TC advisory products  - numbering (also useful for folders)
         - [https://www.weather.gov/media/notification/pdfs/pns18-27hurricane_numbering.pdf](https://www.weather.gov/media/notification/pdfs/pns18-27hurricane_numbering.pdf)
