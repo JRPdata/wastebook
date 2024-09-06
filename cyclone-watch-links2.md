@@ -309,6 +309,8 @@ SHIPS / Intensification
     - [https://charts.ecmwf.int/products/mofc_multi_mjo_family_index](https://charts.ecmwf.int/products/mofc_multi_mjo_family_index)
 
 - Tropical waves:
+    - CFS wave forecast and analysis from NCICS (Hovmöllers and maps of different different parameters; OLR, Velocity Potential, Shear, PWAT, etc.)
+        - [https://ncics.org/portfolio/monitor/mjo/](https://ncics.org/portfolio/monitor/mjo/)
     - Velocity potential anomaly (GFS 200 hPa, fast animations):
         - [https://www.atmos.albany.edu/student/ventrice/real_time/maps/velocity_pot/anom/global_forecast.html](https://www.atmos.albany.edu/student/ventrice/real_time/maps/velocity_pot/anom/global_forecast.html)
     - extended range GEFS velocity potential anomaly (00z run has 35 days out, other runs only to 16 days):
