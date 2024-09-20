@@ -309,6 +309,8 @@ SHIPS / Intensification
     - [https://charts.ecmwf.int/products/mofc_multi_mjo_family_index](https://charts.ecmwf.int/products/mofc_multi_mjo_family_index)
 
 - Tropical waves:
+    - GFS wave forecasts from Quinton Lawton (UM)
+        - [https://qlawton.rsmas.miami.edu/](https://qlawton.rsmas.miami.edu/)
     - CFS wave forecast and analysis from NCICS (Hovmöllers and maps of different different parameters; OLR, Velocity Potential, Shear, PWAT, etc.)
         - [https://ncics.org/portfolio/monitor/mjo/](https://ncics.org/portfolio/monitor/mjo/)
     - Velocity potential anomaly (GFS 200 hPa, fast animations):
