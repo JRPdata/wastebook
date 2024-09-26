@@ -8,7 +8,7 @@ Also extreme weather, climate, various environmental hazards, and random notes
 - [General Analysis](#generalanl)
 - [Satellite Products](#satellite)
 - [Realtime/Live Imagery, Analysis](#live)
-- [Ocean Temperatures (SST, OHC)](#oceantemp)
+- [Observations & Analysis - Ocean Temps & Surface Analysis - SST, OHC, TCHP](#analysis)
 - [Decks & Fixes - Automated data (ATCF)](#atcf)
 - [TC Genesis and Forecasts](#genesis)
 - [Official Sites](#ofcl)
@@ -180,9 +180,9 @@ SHIPS / Intensification
     - (need to reference a couple papers to understand which types of analysis provide the best prediction for different intervals)
     - (take into account data (or lack of) fed into such systems (recent hurricane hunter/sondes data, microwave, satellite (daylight-vis or IR))
 
-<a name="oceantemp"/>
+<a name="analysis"/>
 
-## SST, OHC
+## Observations & Analysis - Ocean Temps & Surface Analysis - SST, OHC, TCHP
 - Observations and Forecast (a week out?):
     - [https://data.marine.copernicus.eu/viewer/expert?view=viewer](https://data.marine.copernicus.eu/viewer/expert?view=viewer)
         - Has other modes but expert is most useful but time consuming:
@@ -203,7 +203,7 @@ SHIPS / Intensification
                 - minimize each point once after adding it (the down arrow next to X button)
                 - and click and drag the box it away so can add more points
 
-- Observations:
+- Observations (SST):
     - [https://www.nhc.noaa.gov/sst/](https://www.nhc.noaa.gov/sst/)
         - Reynolds 2 deg contours (1 day old), regional only
 
@@ -222,6 +222,17 @@ SHIPS / Intensification
     - [https://www.ospo.noaa.gov/Products/ocean/ohc/](https://www.ospo.noaa.gov/Products/ocean/ohc/)
         - No contours
 
+- Observations (TCHP):
+    - [https://cwcgom.aoml.noaa.gov/cgom/OceanViewer/index_phod.html](https://cwcgom.aoml.noaa.gov/cgom/OceanViewer/index_phod.html)
+        - Great site for ocean data (TCHP, SST, etc) (beta version includes recon)
+    - [https://www.aoml.noaa.gov/phod/goos/gliders/images/tchp_conditions_latest.png](https://www.aoml.noaa.gov/phod/goos/gliders/images/tchp_conditions_latest.png)
+        - Latest TCHP chart of (Western) Atlantic from NOAA/AOML/PHOD
+    - [https://www.aoml.noaa.gov/phod/goos/gliders/ocean_conditions.php](https://www.aoml.noaa.gov/phod/goos/gliders/ocean_conditions.php)
+        - Similarly, a threshold chart useful for TC analysis (especially genesis)
+        Both linked from [https://www.aoml.noaa.gov/hurricane-glider-project/](https://www.aoml.noaa.gov/hurricane-glider-project/)
+    - References/Educational for TCHP:
+        - [https://www.aoml.noaa.gov/phod/cyclone/index.php](https://www.aoml.noaa.gov/phod/cyclone/index.php)
+t
 - TAFB:
     - [https://www.nhc.noaa.gov/tafb/?C=M;O=D](https://www.nhc.noaa.gov/tafb/?C=M;O=D)
     - sometimes they produce OHC
@@ -415,11 +426,14 @@ SHIPS / Intensification
 ## Dropsondes (hurricane hunter planes), Recon, and other data:
 - [https://www.nhc.noaa.gov/recon.php](https://www.nhc.noaa.gov/recon.php)
     Schedules and Educational information about recon (Links to Plan of the day and other resources)
+- [https://www.cyclonicwx.com](https://www.cyclonicwx.com)
+    - Favored source for recon from hurricane hunter missions. Includes surface adjusted pressures from dropsondes, as well as doppler radar data.
 - [https://tropicaltidbits.com](https://tropicaltidbits.com)
-    - The best source
     - Educational see recon link above and various WMO Training materials on it (i.e.):
         - [https://severeweather.wmo.int/TCFW/RAIV_Workshop2023/21_Analysis-Aircraft-Reconnaissance-Data_LisaBucci.pdf](https://severeweather.wmo.int/TCFW/RAIV_Workshop2023/21_Analysis-Aircraft-Reconnaissance-Data_LisaBucci.pdf)
         - [https://www.nhc.noaa.gov/outreach/presentations/nhc2013_aircraftData.pdf](https://www.nhc.noaa.gov/outreach/presentations/nhc2013_aircraftData.pdf)
+        - [https://ams.confex.com/ams/97Annual/webprogram/Paper309328.html](https://ams.confex.com/ams/97Annual/webprogram/Paper309328.html)
+            - Includes a comparison different methods for extrapolating surface pressure
     - or raw source:
         - [https://tgftp.nws.noaa.gov/SL.us008001/DF.an/DC.vsndn/DS.dropw/](https://tgftp.nws.noaa.gov/SL.us008001/DF.an/DC.vsndn/DS.dropw/)
         - FORMAT (also see WMO doc in the educational links):
