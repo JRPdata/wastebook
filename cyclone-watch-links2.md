@@ -593,6 +593,11 @@ t
 - RSMCS:
     - [https://www.nhc.noaa.gov/aboutrsmc.shtml](https://www.nhc.noaa.gov/aboutrsmc.shtml)
 
+- Comparison of methods used operationally for TC analysis (2012)
+    - [https://www.sciencedirect.com/science/article/pii/S2225603218300572#t0010](https://www.sciencedirect.com/science/article/pii/S2225603218300572#t0010)
+        - JMA (uses/used?) Koba et al (1989) for its Dvorak tables. Also, has it's own objective dvorak technique (CLOUD) - not a public product AFAIK.
+        - Other agencies use different wind speeds and methods
+
 - Various blogs:
     - i.e. CIMSS blog:
         - [https://cimss.ssec.wisc.edu/satellite-blog/archives/54989](https://cimss.ssec.wisc.edu/satellite-blog/archives/54989)
