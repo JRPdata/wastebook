@@ -223,10 +223,11 @@ SHIPS / Intensification
         - No contours
 
 - Observations (OHC/TCHP):
-    - OSPO OHC Product, reference documentation, and operational fields
+    - OSPO OHC Product, reference documentation, and operational fields (rely on OSPO)
         - [https://www.ospo.noaa.gov/products/ocean/ohc/](https://www.ospo.noaa.gov/products/ocean/ohc/)
         - [https://www.ospo.noaa.gov/products/ocean/ohc/pdf/ATBD_OHC_NESDIS_V3.3.pdf](https://www.ospo.noaa.gov/products/ocean/ohc/pdf/ATBD_OHC_NESDIS_V3.3.pdf)
         - [https://coastwatch.noaa.gov/cwn/products/oceanic-heat-content-mixed-layer-depth-and-depths-20degc-and-26degc-isotherms.html](https://coastwatch.noaa.gov/cwn/products/oceanic-heat-content-mixed-layer-depth-and-depths-20degc-and-26degc-isotherms.html)
+            - Quality Monitoring: [https://www.ncei.noaa.gov/products/satellite-ocean-heat-content-suite#tab-623](https://www.ncei.noaa.gov/products/satellite-ocean-heat-content-suite#tab-623) 
         - (Alternatively from NCEI): [https://www.ncei.noaa.gov/data/oceans/sohcs/](https://www.ncei.noaa.gov/data/oceans/sohcs/)
     - [https://cwcgom.aoml.noaa.gov/cgom/OceanViewer/index_phod.html](https://cwcgom.aoml.noaa.gov/cgom/OceanViewer/index_phod.html)
         - Great site for ocean data (TCHP, SST, etc) (beta version includes recon)
