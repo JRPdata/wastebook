@@ -55,7 +55,7 @@ Also extreme weather, climate, various environmental hazards, and random notes
 
 ## Satellite (Visible, Microwave) Imagery and Products
 - NRL NEW,OLD microwave imagery (active storms only):
-    - [https://www.nrlmry.navy.mil/tcweb/active/](https://www.nrlmry.navy.mil/tcweb/active/)
+    - [https://science.nrlmry.navy.mil/geoips/tcweb_nrl/](https://science.nrlmry.navy.mil/geoips/tcweb_nrl/)
         - (Educational) Training documentation [https://www.nrlmry.navy.mil/training-bin/training.cgi](https://www.nrlmry.navy.mil/training-bin/training.cgi)
     - [https://www.nrlmry.navy.mil/TC.html](https://www.nrlmry.navy.mil/TC.html)
 - FNMOC microwave imagery (active storms only):
@@ -147,8 +147,8 @@ Also extreme weather, climate, various environmental hazards, and random notes
             - [https://tropic.ssec.wisc.edu/real-time/windgridmain.php?&basin=atlantic&sat=wg8](https://tropic.ssec.wisc.edu/real-time/windgridmain.php?&basin=atlantic&sat=wg8)
 
 - SSD (NOAA) Microwave, Winds:
-    - [https://www.ssd.noaa.gov/PS/TROP/mwtc-ospo.html](https://www.ssd.noaa.gov/PS/TROP/mwtc-ospo.html)
-    - [https://www.ssd.noaa.gov/PS/TROP/mtcswa.html](https://www.ssd.noaa.gov/PS/TROP/mtcswa.html)
+    - [https://www.ospo.noaa.gov/products/ocean/tropical/hisa/](https://www.ospo.noaa.gov/products/ocean/tropical/hisa/)
+    - [https://www.ospo.noaa.gov/products/ocean/tropical/mtcswa/](https://www.ospo.noaa.gov/products/ocean/tropical/mtcswa/)
 
 - OSPO (NOAA) satellite analysis (human dvorak)
     - [https://www.ospo.noaa.gov/Products/ocean/tropical/bulletins.html](https://www.ospo.noaa.gov/Products/ocean/tropical/bulletins.html)
