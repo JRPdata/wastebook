@@ -151,9 +151,9 @@ Also extreme weather, climate, various environmental hazards, and random notes
     - [https://www.ospo.noaa.gov/products/ocean/tropical/mtcswa/](https://www.ospo.noaa.gov/products/ocean/tropical/mtcswa/)
 
 - OSPO (NOAA) satellite analysis (human dvorak)
-    - [https://www.ospo.noaa.gov/Products/ocean/tropical/bulletins.html](https://www.ospo.noaa.gov/Products/ocean/tropical/bulletins.html)
+    - [https://www.ospo.noaa.gov/products/ocean/tropical/2025/bulletins/archive.html](https://www.ospo.noaa.gov/products/ocean/tropical/2025/bulletins/archive.html)
     - tc positions:
-    - [https://www.ospo.noaa.gov/Products/ocean/tropical/tdpositions.html](https://www.ospo.noaa.gov/Products/ocean/tropical/tdpositions.html)
+    - [https://www.ospo.noaa.gov/products/ocean/tropical/2025/tdata/archive.html](https://www.ospo.noaa.gov/products/ocean/tropical/2025/tdata/archive.html)
 
     - TAFB doesn't publish their dvorak analyses (:sadface:)
 
@@ -173,7 +173,7 @@ Also extreme weather, climate, various environmental hazards, and random notes
 
 machine dvorak (ADT):
 
-- [https://www.ssd.noaa.gov/PS/TROP/adt.html](https://www.ssd.noaa.gov/PS/TROP/adt.html)
+- [https://www.ospo.noaa.gov/Visualization02/pub/Ocean/Tropical/ADT/2025/text/](https://www.ospo.noaa.gov/Visualization02/pub/Ocean/Tropical/ADT/2025/text/)
 
 SHIPS / Intensification
 - [https://ftp.nhc.noaa.gov/atcf/stext/?C=M;O=D](https://ftp.nhc.noaa.gov/atcf/stext/?C=M;O=D)
