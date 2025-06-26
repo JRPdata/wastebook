@@ -50,14 +50,13 @@ Also extreme weather, climate, various environmental hazards, and random notes
     -  SSMIS from DMSP (satellites: F15,18,19)
         - https://www.ospo.noaa.gov/data/messages/2025/06/MSG_20250625_1735.html
 
-- Microwave data still operational:
-    - GCOM-W1 satellite, JPSS (satellites: NOAA20,21, SNPP), EPS (satellites: METOP-B,C), TRMM satellite (old!)
-
-- Other data, imagery:
-    - GOES19,18, Himawari-9, GEO-KOMPSAT-2A, METEOSAT-9,10
-
-- Scatterometer data:
-    - EPS (METOP-B,C satellites), HY(satellites HY-2B,C,D), Oceansat-3 satellite
+- Other data, still operational:
+    - Microwave data:
+        - GCOM-W1 satellite, JPSS (satellites: NOAA20,21, SNPP), EPS (satellites: METOP-B,C), TRMM satellite (old!)
+    - Other data, imagery :
+        - GOES19,18, Himawari-9, GEO-KOMPSAT-2A, METEOSAT-9,10
+    - Scatterometer data:
+        - EPS (METOP-B,C satellites), HY(satellites HY-2B,C,D), Oceansat-3 satellite
 
 <a name="surface"/>
 
