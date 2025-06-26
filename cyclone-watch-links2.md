@@ -4,6 +4,7 @@ Also extreme weather, climate, various environmental hazards, and random notes
 ---
 
 #### Table of Contents
+- [2025 News - Remote sensing Operational Changes](#news)
 - [Surface Analysis](#surface)
 - [General Analysis](#generalanl)
 - [Satellite Products](#satellite)
@@ -29,6 +30,34 @@ Also extreme weather, climate, various environmental hazards, and random notes
 - [Experimental personal projects](#expnotes)
 
 ---
+
+<a name="news"/>
+
+## 2025 News - Remote Sensing Operational Updates
+- WSF-M
+    - [https://en.wikipedia.org/wiki/Weather_System_Follow-on_Microwave](WSF-M1)
+    - has a microwave imager (similar to GMI)
+    - reached **IOC** **April 24, 2025**:
+        - [https://www.ssc.spaceforce.mil/Newsroom/Article/4165711/ussf-advances-weather-monitoring-with-operational-acceptance-and-initial-operat](https://www.ssc.spaceforce.mil/Newsroom/Article/4165711/ussf-advances-weather-monitoring-with-operational-acceptance-and-initial-operat)
+    - Based on last published acquisition report (end of 2023) I'd expect FOC to follow 7-12 months later (adjusting from last projection: October 24, 2025 - April 24, 2026)
+        - [https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/Selected_Acquisition_Reports/FY_2023_SARS/WSF_MSAR_Dec_2023.pdf](https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/Selected_Acquisition_Reports/FY_2023_SARS/WSF_MSAR_Dec_2023.pdf)
+    - Design doc:
+        - [https://ams.confex.com/ams/2020Annual/webprogram/Manuscript/Paper369912/WSFM%20AMS%20Final.pdf](https://ams.confex.com/ams/2020Annual/webprogram/Manuscript/Paper369912/WSFM%20AMS%20Final.pdf)
+
+- Microwave and other important data _no longer available_ in 2025:
+    - AVHRR,AMSU,etc. from POESS (satellites: NOAA-15,18,19)
+        - https://www.ospo.noaa.gov/data/messages/2025/04/MSG_20250425_1900.html
+    -  SSMIS from DMSP (satellites: F15,18,19)
+        - https://www.ospo.noaa.gov/data/messages/2025/06/MSG_20250625_1735.html
+
+- Microwave data still operational:
+    - GCOM-W1 satellite, JPSS (satellites: NOAA20,21, SNPP), EPS (satellites: METOP-B,C), TRMM satellite (old!)
+
+- Other data, imagery:
+    - GOES19,18, Himawari-9, GEO-KOMPSAT-2A, METEOSAT-9,10
+
+- Scatterometer data:
+    - EPS (METOP-B,C satellites), HY(satellites HY-2B,C,D), Oceansat-3 satellite
 
 <a name="surface"/>
 
