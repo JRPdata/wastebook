@@ -131,8 +131,11 @@ Also extreme weather, climate, various environmental hazards, and random notes
 <a name="live"/>
 
 ## Live Imagery, Analysis, Data (Good Also for Looking for Genesis)
-- Note: CIRA and CIMSS have the most useful collection of products for analysis
 
+- GOES Mesoscale mission viewer (GOES meso schedule)
+    - [https://vlab.noaa.gov/web/towr-s/mmm/meso-view](https://vlab.noaa.gov/web/towr-s/mmm/meso-view)
+
+- Note: CIRA and CIMSS have the most useful collection of products for analysis
 - [https://rammb-slider.cira.colostate.edu/](https://rammb-slider.cira.colostate.edu/)
     - Satellite imagery from RAMMB SLIDER
         - for active storms can sometimes get 1 min HIGH RES imagery updates when mesoscale is active, select appropriate source
