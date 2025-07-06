@@ -86,7 +86,7 @@ Also extreme weather, climate, various environmental hazards, and random notes
     - [https://science.nrlmry.navy.mil/geoips/tcweb_nrl/](https://science.nrlmry.navy.mil/geoips/tcweb_nrl/)
         - (Educational) Training documentation [https://www.nrlmry.navy.mil/training-bin/training.cgi](https://www.nrlmry.navy.mil/training-bin/training.cgi)
     - [https://www.nrlmry.navy.mil/TC.html](https://www.nrlmry.navy.mil/TC.html)
-- FNMOC microwave imagery (active storms only):
+- FNMOC microwave imagery (active storms only) (FNMOC website "temporarily unavailable"):
     - [https://www.fnmoc.navy.mil/tcweb/cgi-bin/tc_home.cgi](https://www.fnmoc.navy.mil/tcweb/cgi-bin/tc_home.cgi)
 
 - BEST winds (in meters/sec!) (ASCAT; includes chinese satellites also!)
@@ -109,8 +109,14 @@ Also extreme weather, climate, various environmental hazards, and random notes
 
 - microwave (GMI) rain/water/wind analysis:
     - [https://images.remss.com/gmi/gmi_data_daily.html](https://images.remss.com/gmi/gmi_data_daily.html)
-- ASMR2 analyses (wind/rain/temps):
+- ASMR2 analyses (wind/rain/temps) (NO LONGER WORKING - 404):
     - [https://www.ospo.noaa.gov/Products/atmosphere/gpds/maps.html?GPOWS#gpdsMaps](https://www.ospo.noaa.gov/Products/atmosphere/gpds/maps.html?GPOWS#gpdsMaps)
+- ASMR2 Imagery (GCOM-W1 @ JAXA) (alternative to NRL if not working; also good for pre-invest systems; no PCT imagery, but raw H,V 37,89 GHz imagery)
+    - [https://www.eorc.jaxa.jp/AMSR/viewer/](https://www.eorc.jaxa.jp/AMSR/viewer/)
+ 
+- Educational training doc for Microwave imagery, scatterometer (NRL, PCT products)
+    - [https://severeweather.wmo.int/TCFW/RAIV_Workshop2023/14_MicrowaveInterprestation_BradReinhart.pdf](https://severeweather.wmo.int/TCFW/RAIV_Workshop2023/14_MicrowaveInterprestation_BradReinhart.pdf)
+    - [https://severeweather.wmo.int/TCFW/RAIV_Workshop2024/1.2_Microwave_Scatterometry_2024.pdf](https://severeweather.wmo.int/TCFW/RAIV_Workshop2024/1.2_Microwave_Scatterometry_2024.pdf)
 
 - global rain rates (SCOPE):
     - [https://sigma.cptec.inpe.br/scope/](https://sigma.cptec.inpe.br/scope/)
