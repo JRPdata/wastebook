@@ -91,7 +91,7 @@ Also extreme weather, climate, various environmental hazards, and random notes
 
 - BEST winds (in meters/sec!) (ASCAT; includes chinese satellites also!)
     - [https://scatterometer.knmi.nl/tile_prod/](https://scatterometer.knmi.nl/tile_prod/)
-- winds/rain (slower updates) ASCAT, SSM/I, ASMR, etc.
+- winds/rain (slower updates) ASCAT, SSM/I, AMSR, etc.
     - [https://manati.star.nesdis.noaa.gov/datasets/ASCATBData.php](https://manati.star.nesdis.noaa.gov/datasets/ASCATBData.php)
         - DOCUMENTATION FOR SSM/I
             - [https://www.ncei.noaa.gov/products/climate-data-records/ssmis-brightness-temperature-rss](https://www.ncei.noaa.gov/products/climate-data-records/ssmis-brightness-temperature-rss)
@@ -109,11 +109,13 @@ Also extreme weather, climate, various environmental hazards, and random notes
 
 - microwave (GMI) rain/water/wind analysis:
     - [https://images.remss.com/gmi/gmi_data_daily.html](https://images.remss.com/gmi/gmi_data_daily.html)
-- ASMR2 analyses (wind/rain/temps) (NO LONGER WORKING - 404):
+- AMSR2 analyses (wind/rain/temps) (NO LONGER WORKING - 404):
     - [https://www.ospo.noaa.gov/Products/atmosphere/gpds/maps.html?GPOWS#gpdsMaps](https://www.ospo.noaa.gov/Products/atmosphere/gpds/maps.html?GPOWS#gpdsMaps)
-- ASMR2 Imagery (GCOM-W1 @ JAXA) (alternative to NRL if not working; also good for pre-invest systems; no PCT imagery, but raw H,V 37,89 GHz imagery)
+- AMSR2 Imagery (GCOM-W1 @ JAXA) (alternative to NRL if not working; also good for pre-invest systems; no PCT imagery, but raw H,V 37,89 GHz imagery)
     - [https://www.eorc.jaxa.jp/AMSR/viewer/](https://www.eorc.jaxa.jp/AMSR/viewer/)
- 
+- AMSR Wind Speed Map (GCOM-W1 @ JAXA)
+    - [https://www.eorc.jaxa.jp/cgi-bin/amsr/validation/gcomw_validation_aswm.cgi](https://www.eorc.jaxa.jp/cgi-bin/amsr/validation/gcomw_validation_aswm.cgi)
+  
 - Educational training doc for Microwave imagery, scatterometer (NRL, PCT products)
     - [https://severeweather.wmo.int/TCFW/RAIV_Workshop2023/14_MicrowaveInterprestation_BradReinhart.pdf](https://severeweather.wmo.int/TCFW/RAIV_Workshop2023/14_MicrowaveInterprestation_BradReinhart.pdf)
     - [https://severeweather.wmo.int/TCFW/RAIV_Workshop2024/1.2_Microwave_Scatterometry_2024.pdf](https://severeweather.wmo.int/TCFW/RAIV_Workshop2024/1.2_Microwave_Scatterometry_2024.pdf)
@@ -176,7 +178,7 @@ Also extreme weather, climate, various environmental hazards, and random notes
                 - SATCON is best for intensity (when its working, and has lots of good recent data)
             - ARCHER/MPERC has good track fixes, analyses for cyclones that are understandable (including eyewall replacement predictions!)
                 - (useful extra info = click on data points in charts/tables)
-                - (bonus is get good satellite imagery & analysis for active storms - gmi/ssmi/asmr)
+                - (bonus is get good satellite imagery & analysis for active storms - gmi/ssmi/amsr)
 
         - ALL Regional products have very good (satellite) analysis visualizations == especially useful for genesis
             - especially winds as it provides different analyses: shear/vorticity/convergence/divergence) == very useful
