@@ -92,6 +92,10 @@ Also extreme weather, climate, various environmental hazards, and random notes
 - EU
     - [https://status.ecmwf.int/](https://status.ecmwf.int/)
         - ECMWF Services Status
+    - [https://obsstatus.ecmwf.int/](https://obsstatus.ecmwf.int/)
+        - ECMWF Observing System Status Dashboard
+    - [https://www.ecmwf.int/en/forecasts/quality-our-forecasts/monitoring-observing-system](https://www.ecmwf.int/en/forecasts/quality-our-forecasts/monitoring-observing-system)
+        - ECMWF Observing System links (data ingestion QC, coverage charts, statistics)
     - [https://cds.climate.copernicus.eu/live](https://cds.climate.copernicus.eu/live)
         - (CDS) Copernicus Status
     - [https://scatterometer.knmi.nl/proc_status/](https://scatterometer.knmi.nl/proc_status/)
