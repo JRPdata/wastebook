@@ -5,6 +5,7 @@ Also extreme weather, climate, various environmental hazards, and random notes
 
 #### Table of Contents
 - [2025 News - Remote sensing Operational Changes](#news)
+- [Status Pages](#status)
 - [Surface Analysis](#surface)
 - [General Analysis](#generalanl)
 - [Satellite Products](#satellite)
@@ -58,6 +59,71 @@ Also extreme weather, climate, various environmental hazards, and random notes
     - Scatterometer data:
         - EPS (METOP-B,C satellites), HY(satellites HY-2B,C,D), Oceansat-3 satellite
 
+
+<a name="status"/>
+
+## Status Pages - Messages, Operational Status, News for different organizations, systems
+- US
+    - [https://www.nco.ncep.noaa.gov/pmb/nwprod/prodstat/](https://www.nco.ncep.noaa.gov/pmb/nwprod/prodstat/)
+      - NCEP Production Status (NWP - Weather models production status)
+    - [https://tgftp.nws.noaa.gov/tgstatus/](https://tgftp.nws.noaa.gov/tgstatus/)
+        - NWS status messages (esp. regarding the public NWS gateway, aka. tgftp)
+    - [https://www.ospo.noaa.gov/operations/messages.html](https://www.ospo.noaa.gov/operations/messages.html)
+        - (NOAA) OSPO Satellite Operations messages
+    - [https://www.ospo.noaa.gov/operations/goes/status.html](https://www.ospo.noaa.gov/operations/goes/status.html)
+        - GOES Status
+    - [https://www.nco.ncep.noaa.gov/status/messages/](https://www.nco.ncep.noaa.gov/status/messages/)
+        - (Senior Duty Met.) Administrative Alerts and Messages (long page; separated into messages below)
+            - Alerts (CWD, outage summaries, etc.)
+                - [https://forecast.weather.gov/product.php?site=NWS&issuedby=SDM&product=ADA&format=CI&version=1&glossary=0](https://forecast.weather.gov/product.php?site=NWS&issuedby=SDM&product=ADA&format=CI&version=1&glossary=0)
+            - Messages (Models, Satellite/Meso changes, etc.)
+                - [https://forecast.weather.gov/product.php?site=NWS&issuedby=SDM&product=ADM&format=CI&version=1&glossary=0](https://forecast.weather.gov/product.php?site=NWS&issuedby=SDM&product=ADM&format=CI&version=1&glossary=0)
+    - [https://www.nco.ncep.noaa.gov/status/](https://www.nco.ncep.noaa.gov/status/)
+        - NWS Tech Ops (Various Status Pages)
+    - [https://www.nco.ncep.noaa.gov/status/data/realtime/](https://www.nco.ncep.noaa.gov/status/data/realtime/)
+        - NCEP real time data monitoring
+            - includes list of (a selection of) products being ingested
+            - this lets you see for a current model cycle if any products are missing from model ingestion
+    - [https://www.nco.ncep.noaa.gov/status/cwd/](https://www.nco.ncep.noaa.gov/status/cwd/)
+        - Critical Weather Day Status
+    - [https://gpm.nasa.gov/data/news](https://gpm.nasa.gov/data/news)
+        - GPM Data news
+    
+- EU
+    - [https://status.ecmwf.int/](https://status.ecmwf.int/)
+        - ECMWF Services Status
+    - [https://cds.climate.copernicus.eu/live](https://cds.climate.copernicus.eu/live)
+        - (CDS) Copernicus Status
+    - [https://scatterometer.knmi.nl/proc_status/](https://scatterometer.knmi.nl/proc_status/)
+        - KNMI Products Processing status (Status of scatterometer availability, processing from EUMETSAT/EUMETCAST)
+    - [https://osi-saf.eumetsat.int/community/list-of-service-messages](https://osi-saf.eumetsat.int/community/list-of-service-messages)
+        - EUMETSAT OSI SAF (Ocean and Sea Ice) Service Status
+            - Sometimes outages, anomalies from scatterometer data (processed by KNMI) are here
+    - [https://uns.eumetsat.int/uns/](https://uns.eumetsat.int/uns/)
+        - EUMETSAT Status, Announcements, Messages
+            - includes scheduled maintenance, calibrations, maneuvers for satellites under Administrative Messages
+            - also includes TLEs (esp. useful historical TLEs)
+
+- Canada
+    - [https://eccc-msc.github.io/open-data/msc-data/changelog_nwp_en/](https://eccc-msc.github.io/open-data/msc-data/changelog_nwp_en/)
+        - CMC NWP Changelog (model changes; no service outage messages/alerts)
+
+- Japan
+    - [https://gportal.jaxa.jp/gpr/notice/notice/list/](https://gportal.jaxa.jp/gpr/notice/notice/list/)
+        - JAXA G-Portal notices (disseminates GCOM-W1, GPM-GMI data (NOAA's GPM website also distributes more timely near real time GPM-GMI data)
+    - (JMA) Himawari-9 Satellite
+        - [https://www.data.jma.go.jp/mscweb/en/oper/opr_info_H8.html](https://www.data.jma.go.jp/mscweb/en/oper/opr_info_H8.html)
+            - Operational Status
+        - [https://www.data.jma.go.jp/mscweb/en/oper/event_H9.html](https://www.data.jma.go.jp/mscweb/en/oper/event_H9.html)
+            - Event log
+        - [https://www.data.jma.go.jp/mscweb/en/oper/bulletin_list_H9.html](https://www.data.jma.go.jp/mscweb/en/oper/bulletin_list_H9.html)
+            - Operational Schedule
+
+- Korea    
+    - [https://nmsc.kma.go.kr/enhome/html/base/cmm/selectPage.do?page=satellite.datasvc.introDataServices](https://nmsc.kma.go.kr/enhome/html/base/cmm/selectPage.do?page=satellite.datasvc.introDataServices)
+        - (KMA) GEO-KOMPSAT-2A Satellite Operations (Links to status page, operational schedule, QC monitoring, etc.)
+
+        
 <a name="surface"/>
 
 ## Surface Analysis (Synoptic)
