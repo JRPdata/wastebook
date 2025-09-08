@@ -220,6 +220,10 @@ Also extreme weather, climate, various environmental hazards, and random notes
         - also has many other products
         - DOCUMENTATION on bands (educational):
             - [https://www.noaa.gov/jetstream/goes_east](https://www.noaa.gov/jetstream/goes_east)
+- [https://realearth.ssec.wisc.edu/](https://realearth.ssec.wisc.edu/)
+    - Lots of satellite products to view as layers (global); Good NRT alternative to SLIDER
+    - VIIRS image viewer for NPP (super high resolution):
+        - [https://cimss.ssec.wisc.edu/viirs/imagery-viewer/?satellite=npp](https://cimss.ssec.wisc.edu/viirs/imagery-viewer/?satellite=npp)
 - (lower res for meteosats if rammb slider not available for meteo10)
     - [https://view.eumetsat.int/productviewer?v=msg_fes:ir108](https://view.eumetsat.int/productviewer?v=msg_fes:ir108)
 - alternative GOES viewer with 1 min data:
@@ -940,12 +944,6 @@ t
     - [https://iridl.ldeo.columbia.edu/maproom/Global/Atm_Circulation/Monthly_Vpot.html?P=250](https://iridl.ldeo.columbia.edu/maproom/Global/Atm_Circulation/Monthly_Vpot.html?P=250)
         - Anomaly analysis based on historical data (Monthly, Daily, Seasonal and Wind, SST, GPH)
         - Monthly Velocity Potential Anomaly (250, 925) (last month)
-
-
-    - [https://realearth.ssec.wisc.edu/](https://realearth.ssec.wisc.edu/)
-        - Lots of satellite products to view as layers (global)
-        - VIIRS image viewer for NPP (super high resolution):
-            - [https://cimss.ssec.wisc.edu/viirs/imagery-viewer/?satellite=npp](https://cimss.ssec.wisc.edu/viirs/imagery-viewer/?satellite=npp)
 
     - [https://www.windy.com/](https://www.windy.com/)
         - famous visualizations for many models including expensive ones!
