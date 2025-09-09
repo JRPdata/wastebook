@@ -40,8 +40,7 @@ Also extreme weather, climate, various environmental hazards, and random notes
     - has a microwave imager (similar to GMI)
     - reached **IOC** **April 24, 2025**:
         - [https://www.ssc.spaceforce.mil/Newsroom/Article/4165711/ussf-advances-weather-monitoring-with-operational-acceptance-and-initial-operat](https://www.ssc.spaceforce.mil/Newsroom/Article/4165711/ussf-advances-weather-monitoring-with-operational-acceptance-and-initial-operat)
-    - Based on last published acquisition report (end of 2023) I'd expect FOC to follow 7-12 months later (adjusting from last projection: October 24, 2025 - April 24, 2026)
-        - [https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/Selected_Acquisition_Reports/FY_2023_SARS/WSF_MSAR_Dec_2023.pdf](https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/Selected_Acquisition_Reports/FY_2023_SARS/WSF_MSAR_Dec_2023.pdf)
+    - Products started have already started being produced by NRL as of ~ a month or so ago (some time in August?)
     - Design doc:
         - [https://ams.confex.com/ams/2020Annual/webprogram/Manuscript/Paper369912/WSFM%20AMS%20Final.pdf](https://ams.confex.com/ams/2020Annual/webprogram/Manuscript/Paper369912/WSFM%20AMS%20Final.pdf)
 
