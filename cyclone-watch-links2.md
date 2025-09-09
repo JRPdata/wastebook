@@ -220,12 +220,13 @@ Also extreme weather, climate, various environmental hazards, and random notes
         - also has many other products
         - DOCUMENTATION on bands (educational):
             - [https://www.noaa.gov/jetstream/goes_east](https://www.noaa.gov/jetstream/goes_east)
+- METEOSAT-12 (EUMETSAT); use for Central, Eastern Atlantic, Africa (views customizable by login):
+    - [https://view.eumetsat.int/productviewer?v=175210](https://view.eumetsat.int/productviewer?v=175210)
+        - Clean IR and Red channels are high-res, every 10 minutes ("FC HRFI")
 - [https://realearth.ssec.wisc.edu/](https://realearth.ssec.wisc.edu/)
     - Lots of satellite products to view as layers (global); Good NRT alternative to SLIDER
     - VIIRS image viewer for NPP (super high resolution):
         - [https://cimss.ssec.wisc.edu/viirs/imagery-viewer/?satellite=npp](https://cimss.ssec.wisc.edu/viirs/imagery-viewer/?satellite=npp)
-- (lower res for meteosats if rammb slider not available for meteo10)
-    - [https://view.eumetsat.int/productviewer?v=msg_fes:ir108](https://view.eumetsat.int/productviewer?v=msg_fes:ir108)
 - alternative GOES viewer with 1 min data:
     - [https://geosphere.ssec.wisc.edu/](https://geosphere.ssec.wisc.edu/)
 
