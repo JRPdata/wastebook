@@ -272,7 +272,9 @@ Also extreme weather, climate, various environmental hazards, and random notes
 
 - NDBC buoy data (NOAA):
     - [https://www.ndbc.noaa.gov/radial_search.php](https://www.ndbc.noaa.gov/radial_search.php)
-
+- Observing monitoring center (PMEL/NOAA):
+    - Lots of different ocean observation data (buoys, gliders, floats, etc.; includes buoys not in the NDBC):
+        - [https://viz.pmel.noaa.gov/osmc/?color_by=platform_type](https://viz.pmel.noaa.gov/osmc/?color_by=platform_type)
 - [https://zoom.earth/](https://zoom.earth/)
     - Satellite imagery with a useful visualization purpose:
     - Since it overlays the interpolated model storm track, you can notice deviations from forecast track (space & time)
